@@ -16,3 +16,12 @@ p{
 	font-family: Trebuchet MS, sans-serif;
 	color: #c9c9c9;
 }
+
+#link{
+	text-align: center;
+	width: 100%;
+	margin-top: 500px;
+	font-size: 50px;
+	font-family: Trebuchet MS;
+	background-color: white;
+}
