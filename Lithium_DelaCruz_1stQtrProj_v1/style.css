@@ -1,28 +1,26 @@
-			html{
-				background-image: url("Website BG (1).png");
-				background-repeat: no-repeat;
-				background-size: cover;
-			}
-			#title{
-				text-align: center;
-				color: #FFFF;
-				font-size: 70px;
-				line-height: 5px;
-				font-family: Verdana, sans-serif;
-				margin-top: 100px;
-			}
+html{
+	background-image: url("Website BG (1).png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#title{
+	text-align: center;
+	color: #FFFF;
+	font-size: 70px;
+	line-height: 5px;
+	font-family: Verdana, sans-serif;
+	margin-top: 100px;
+}
 			
 			
-			#description{
-				font-size: 30px;
-			}
+#description{
+	font-size: 30px;
+}
 
-			#nav{
-				text-align: center;
-				width: 100%;
-				margin-top: 500px;
-				font-size: 50px;
-				font-family: Trebuchet MS;
-				background-color: white;
-			}
-			
+#nav{
+	text-align: center;
+	width: 100%;
+	margin-top: 500px;
+	font-size: 50px;
+	font-family: Trebuchet MS, sans-serif;
+}
