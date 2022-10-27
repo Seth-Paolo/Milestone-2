@@ -17,11 +17,15 @@ p{
 	color: #c9c9c9;
 }
 
-#link{
+#nav{
 	text-align: center;
-	width: 100%;
-	margin-top: 500px;
+	width: 20%;
+	margin-top: 100px;
 	font-size: 50px;
-	font-family: Trebuchet MS;
+	font-family: Trebuchet MS, sans-serif;
 	background-color: white;
+}
+
+#link{
+	color: black;
 }
