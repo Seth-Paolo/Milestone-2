@@ -1,0 +1,18 @@
+html{
+	background-image: url("About BG.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1{
+	font-size: 80px;
+	text-align: center;
+	font-family: Verdana, sans-serif;
+	color: #c9c9c9;
+}
+
+p{
+	font-size: 50px;
+	font-family: Trebuchet MS, sans-serif;
+	color: #c9c9c9;
+}
